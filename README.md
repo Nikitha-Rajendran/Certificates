@@ -1,2 +1,2 @@
 # Certificates
-A list of completed certifications.
+A list of completed courses and certifications.
